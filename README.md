@@ -1,5 +1,5 @@
 # Beat Player
-Simple music player Tkinter, Pygame, Mutagen in Python.
+Simple music player build by Tkinter, Pygame, Mutagen in Python.
 
 # App project structure
 - /Images/ contains .png files for Beat player control buttons
